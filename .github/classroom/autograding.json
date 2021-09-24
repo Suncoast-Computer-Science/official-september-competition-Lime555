@@ -19,6 +19,46 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "Data Length Test Case 3",
+      "setup": "",
+      "run": "python3 data.py",
+      "input": "94",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Crossword Test Case 1",
+      "setup": "",
+      "run": "python3 crossword.py",
+      "input": "value\r\nde\r\n7",
+      "output": "devalue",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Crossword Test Case 2",
+      "setup": "",
+      "run": "python3 crossword.py",
+      "input": "dis\r\nappear\r\n8",
+      "output": "False",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Crossword Test Case 3",
+      "setup": "",
+      "run": "python3 crossword.py",
+      "input": "auto\r\npilot\r\n7",
+      "output": "autopilot",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
