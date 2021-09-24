@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Data Length Test Case 1",
+      "setup": "",
+      "run": "python3 data.py",
+      "input": "392",
+      "output": "4",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
