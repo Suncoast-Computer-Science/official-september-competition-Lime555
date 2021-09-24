@@ -1,4 +1,3 @@
-
 parta = input()
 partb = input()
 wordlen = int(input())
