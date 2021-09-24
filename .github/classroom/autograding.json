@@ -111,36 +111,6 @@
       "points": null
     },
     {
-      "name": "Pizza Party Test Case 1",
-      "setup": "",
-      "run": "python3 pizza.py",
-      "input": "73\r\n13\r\n4",
-      "output": "True",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
-      "name": "Pizza Party Test Case 2",
-      "setup": "",
-      "run": "python3 pizza.py",
-      "input": "49\r\n11\r\n3",
-      "output": "False",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
-      "name": "Pizza Party Test Case 3",
-      "setup": "",
-      "run": "python3 pizza.py",
-      "input": "1432\r\n56\r\n8",
-      "output": "True",
-      "comparison": "included",
-      "timeout": 10,
-      "points": null
-    },
-    {
       "name": "Goodbye Test Case 1",
       "setup": "",
       "run": "python3 goodbye.py",
