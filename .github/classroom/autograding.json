@@ -139,6 +139,116 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "Goodbye Test Case 1",
+      "setup": "",
+      "run": "python3 goodbye.py",
+      "input": "Bob",
+      "output": "Goodbye Bob!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Goodbye Test Case 2",
+      "setup": "",
+      "run": "python3 goodbye.py",
+      "input": "Rohit",
+      "output": "Goodbye Rohit!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Numbers Test Case 1",
+      "setup": "",
+      "run": "python3 numbers.py",
+      "input": "110",
+      "output": "True",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Numbers Test Case 2",
+      "setup": "",
+      "run": "python3 numbers.py",
+      "input": "211",
+      "output": "False",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Numbers Test Case 3",
+      "setup": "",
+      "run": "python3 numbers.py",
+      "input": "89",
+      "output": "False",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Cookie Test Case 1",
+      "setup": "",
+      "run": "python3 cookie.py",
+      "input": "1\r\n2",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Cookie Test Case 3",
+      "setup": "",
+      "run": "python3 cookie.py",
+      "input": "5\r\n7",
+      "output": "12",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Swapping Test Case 1",
+      "setup": "",
+      "run": "python3 swapping.py",
+      "input": "3\r\nboR\r\ntohiR\r\nyancN",
+      "output": "Rob\r\nRohit\r\nNancy",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Swapping Test Case 2",
+      "setup": "",
+      "run": "python3 swapping.py",
+      "input": "2\r\nBruh\r\neobbir",
+      "output": "hruB\r\nrobbie",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Parenthesis Test Case 1",
+      "setup": "",
+      "run": "python3 parenthesis.py",
+      "input": "4\r\n()\r\n(()())\r\n())(()\r\n)(",
+      "output": "True\r\nTrue\r\nFalse\r\nFalse",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Parenthesis Test Case 2",
+      "setup": "",
+      "run": "python3 parenthesis.py",
+      "input": "4\r\n(()())\r\n())(\r\n(()\r\n())(",
+      "output": "True\r\nFalse\r\nTrue\r\nFalse",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
