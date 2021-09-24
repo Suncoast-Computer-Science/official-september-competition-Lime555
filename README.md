@@ -11,6 +11,40 @@ Each problem has a filename, make sure to name your file for that problem as so
 When you push your changes to github it will show you in the actions tab the status for each problem
 You MUST get the points for each question in order to actually complete the problem. Points are not reflective of your score.
 
+## Pizza Party
+
+*Filename:* pizza.py
+
+Problem: Joe is ordering pizza for a party. He wants to know if the leftover slices will be able to be evenly split among his family. Assume that everyone at the party will eat all the pizza slices until they can no longer be evanly split between them. Take the input of 3 variables The amount of pizza slices ordered, the party size, and the size of Joe's family. Return True if the leftover pizza can be evenly split among the family, return False if it cannot.
+
+Example Input 1:
+
+```
+73
+13
+4
+```
+
+Example Output 1:
+
+```
+True
+```
+
+Example Input 2:
+
+```
+49
+11
+3
+```
+
+Example Output 2:
+
+```
+False
+```
+
 ## Data Length
 
 *Filename:* data.py
@@ -151,5 +185,49 @@ Example Output 2:
 ***
  *
  
+*
+```
+
+Hint: First try to make code that can make diamond given the number of lines long it should be. For example given 5 the code should retrurn a diamond that is 5 lines long. Diamonds should only ever have an odd number of lines.
+
+Hint Example Input 1:
+
+```
+5
+```
+
+Hint Example Output 1:
+
+```
+  *
+ ***
+*****
+ ***
+  *
+```
+
+Hint Example Input 2:
+
+```
+3
+```
+
+Hint Example Output 2:
+
+```
+ *
+***
+ *
+```
+
+Hint Example Input 3:
+
+```
+1
+```
+
+Hint Example Output 3:
+
+```
 *
 ```
