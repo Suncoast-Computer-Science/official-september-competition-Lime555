@@ -63,11 +63,11 @@ Example Output 2:
 False
 ```
 
-## Laser Tag
+## Lazer Tag
 
-*Filename:* laser.py
+*Filename:* lazer.py
 
-Problem: A laser tag company wants a program that will retern a games team scores ordered. The first number inputed will be how many people played there is always an even number of players. Then each players socre will be inputed. Each team is grouped together so the first and second palyer would be on a team, the third and frouth player will be on a team, and so on. You should out put the team scores in an list ordered from least to greatest.
+Problem: A lazer tag company wants a program that will retern a games team scores ordered. The first number inputed will be how many people played there is always an even number of players. Then each players socre will be inputed. Each team is grouped together so the first and second palyer would be on a team, the third and frouth player will be on a team, and so on. You should out put the team scores in an list ordered from least to greatest.
 
 Example Input:
 
